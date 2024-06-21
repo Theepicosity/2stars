@@ -12,10 +12,10 @@
   "RealisticSky",
   "RecipeBrowser",
   "RStaffsMod",
-  "SpiritMod",
+  "StarlightRiver",
   "SquintlysFurnitureMod",
   "SquintlysPotteryMod",
-  "StarlightRiver",
+  "TwoStarsCompat",
   "StarsAbove",
   "StormDiversMod",
   "SubworldLibrary",
@@ -24,6 +24,10 @@
   "VervCaves",
   "WMITF",
   "Yorui",
-  "TwoStarsCompat",
-  "GhostHouse"
+  "GhostHouse",
+  "WingSlotExtra",
+  "StellarMod",
+  "WingTimeUI",
+  "SummonsUI",
+  "BlueMoon"
 ]
