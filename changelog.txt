@@ -1,0 +1,8 @@
+2Stars is a star-themed modpack for Terraria.
+
+version 2:
+-Added "Wing Slot Extra", "Interstellar Mod", "Wing Time UI", "Summoner UI", "Enchanted Moon"
+-Removed "Spirit Mod"
+
+version 1:
+-Created the modpack with 26 mods: "Arbour", "Deimos, the Starborn Princess", "Hook Stats And Wing Stats", "Improved Respawning", "Atmospheric Torches", "jorbmod", "Lights and Shadows", "Swarm Staffs", "Mount And Journey", "Orchid Mineshaft", "Realistic Sky", "Recipe Browser", "Alternative Gem Staffs", "Spirit Mod", "Squintly's Furniture Mod", "Squintly's Pottery Mod", "Starlight River", "The Stars Above", "Storm's Additions Mod", "Subworld Library", "Adventure with cute partners", "Verdant", "Better Caves", "WMITF", "Starlite Mod", "The Ghost House"
