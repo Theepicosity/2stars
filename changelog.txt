@@ -1,5 +1,8 @@
 2Stars is a star-themed modpack for Terraria.
 
+version 3:
+-Added "Syla's Resource Pack Library" (newly-added dependency of Summoner UI)
+
 version 2:
 -Added "Wing Slot Extra", "Interstellar Mod", "Wing Time UI", "Summoner UI", "Enchanted Moon"
 -Removed "Spirit Mod"
